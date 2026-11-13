@@ -136,5 +136,5 @@ Files: [`SwissADME_I3C.csv`](07_ADME_toxicity/SwissADME_I3C.csv), [`ProTox3_I3C_
 ## Author
 Vaishnavi Parthiban
 
-## Citation / license
-Add a `LICENSE` file (MIT for code, CC BY 4.0 for data/figures is a common choice).
+## License
+   Released under the MIT License. See the LICENSE file. © 2026 Vaishnavi Parthiban.
